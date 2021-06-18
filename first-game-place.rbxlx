@@ -84,27 +84,27 @@
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame">
-					<X>50.0142365</X>
-					<Y>17.0422935</Y>
-					<Z>44.2645302</Z>
-					<R00>0.995866895</R00>
-					<R01>0.0607761368</R01>
-					<R02>-0.0674934238</R02>
-					<R10>-0</R10>
-					<R11>0.743118644</R11>
-					<R12>0.66915971</R12>
-					<R20>0.0908245593</R20>
-					<R21>-0.666393995</R21>
-					<R22>0.740047276</R22>
+					<X>37.1104431</X>
+					<Y>16.0479603</Y>
+					<Z>17.3593178</Z>
+					<R00>-0.98100245</R00>
+					<R01>0.0333655886</R01>
+					<R02>-0.191104949</R02>
+					<R10>3.7252903e-09</R10>
+					<R11>0.9850986</R11>
+					<R12>0.171991304</R12>
+					<R20>0.193995774</R20>
+					<R21>0.168723896</R21>
+					<R22>-0.966383994</R22>
 				</CoordinateFrame>
 				<Ref name="CameraSubject">null</Ref>
 				<token name="CameraType">0</token>
 				<float name="FieldOfView">70</float>
 				<token name="FieldOfViewMode">0</token>
 				<CoordinateFrame name="Focus">
-					<X>50.1492233</X>
-					<Y>15.7039738</Y>
-					<Z>42.7844353</Z>
+					<X>37.4926605</X>
+					<Y>15.7039709</Y>
+					<Z>19.2921238</Z>
 					<R00>1</R00>
 					<R01>0</R01>
 					<R02>0</R02>
@@ -385,7 +385,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<bool name="Massless">false</bool>
-				<token name="Material">256</token>
+				<token name="Material">864</token>
 				<string name="Name">Part</string>
 				<CoordinateFrame name="PivotOffset">
 					<X>0</X>
@@ -477,7 +477,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<bool name="Massless">false</bool>
-				<token name="Material">256</token>
+				<token name="Material">1536</token>
 				<string name="Name">Part</string>
 				<CoordinateFrame name="PivotOffset">
 					<X>0</X>
@@ -569,7 +569,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<bool name="Massless">false</bool>
-				<token name="Material">256</token>
+				<token name="Material">848</token>
 				<string name="Name">Part</string>
 				<CoordinateFrame name="PivotOffset">
 					<X>0</X>
@@ -682,7 +682,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<bool name="Massless">false</bool>
-				<token name="Material">256</token>
+				<token name="Material">1312</token>
 				<string name="Name">Part</string>
 				<CoordinateFrame name="PivotOffset">
 					<X>0</X>
@@ -743,9 +743,9 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
 				<CoordinateFrame name="CFrame">
-					<X>39.5</X>
-					<Y>10.0100346</Y>
-					<Z>34.4999962</Z>
+					<X>42.6401787</X>
+					<Y>11.0920782</Y>
+					<Z>37.7487488</Z>
 					<R00>0.184018642</R00>
 					<R01>-0.982922792</R01>
 					<R02>-1.49011612e-08</R02>
@@ -774,7 +774,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<bool name="Massless">false</bool>
-				<token name="Material">256</token>
+				<token name="Material">800</token>
 				<string name="Name">Part</string>
 				<CoordinateFrame name="PivotOffset">
 					<X>0</X>
@@ -817,8 +817,8 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<token name="shape">2</token>
 				<Vector3 name="size">
 					<X>1</X>
-					<Y>6</Y>
-					<Z>6</Z>
+					<Y>15.8242645</Y>
+					<Z>16.1587486</Z>
 				</Vector3>
 			</Properties>
 		</Item>
